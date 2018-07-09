@@ -1,2 +1,16 @@
 # RN_Album
 React Native Sample project
+
+# Start 
+If you are beginner to react-native, first follow these steps - 
+i) Install Node/Npm with _brew install node_.
+ii) Install Watchman with _brew install watchman_.
+iii) Install react-native CLI with _npm install -g react-native-cli_.
+
+If you have already installed above steps, just run _npm install_ and you are good to go.
+
+# RUN
+To run app on iOS, run _npm start run_ios_ 
+To run on android, run _npm start run_android_
+
+
