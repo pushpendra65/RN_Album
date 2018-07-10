@@ -3,6 +3,9 @@ React Native Sample project
 
 # Start 
 If you are beginner to react-native, first follow these steps - 
+
+0) If brew is not installed on your machine, install with _ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"_
+
 i) Install Node/Npm with _brew install node_.
 
 ii) Install Watchman with _brew install watchman_.
