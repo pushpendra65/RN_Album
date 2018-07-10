@@ -2,10 +2,11 @@ import React, { Component } from 'react';
 import { View } from 'react-native';
 
 const Card = (props) => {
-
+    console.log("Card");
+    
     return(
         <View style = {styles.containerStyle }>
-            { props.children}
+            { props.children }
         </View>  
     )
 
@@ -19,10 +20,10 @@ const styles = {
         borderBottomWidth: 0,
 
         showdowColor: '#000',
-        shadowOffset: { width: 0, height: 2},
+        shadowOffset: { width: 0, height: 2 },
         shadowOpacity: 0.1,
         shadowRadius: 2,
-        elevation: 1,
+        elevation: 2,
         marginLeft: 5,
         marginRight: 5,
         marginTop: 10,
