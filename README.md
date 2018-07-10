@@ -10,7 +10,7 @@ iii) Install react-native CLI with _npm install -g react-native-cli_.
 If you have already installed above steps, just run _npm install_ and you are good to go.
 
 # RUN
-To run app on iOS, run _npm start run_ios_ 
-To run on android, run _npm start run_android_
+i) To run app on iOS, run _react-native run_ios_ 
+ii) To run on android, run _react_native start run_android_
 
 
